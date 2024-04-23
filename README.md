@@ -25,3 +25,6 @@ This code is tested with:
 - Python 3.11.4
 - Pytorch 2.0.1
 - Required libraries: Sklearn. Tqdm, Gensim, etc.
+
+# Reference:
+Zhou, T., Glanz, Z., Liu, M., Bian, J., Yin, R., & Gao, H. (2023, December). HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction. In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1798-1805). IEEE.
